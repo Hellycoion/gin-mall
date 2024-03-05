@@ -3,10 +3,10 @@
 # Or easily, just use 'amd64' for windows
 
 # amd64 arm64
-ARCH = arm64
+ARCH = amd64
 
 # linux darwin windows
-OS = darwin
+OS = windows
 
 DIR := $(shell pwd)
 OUTPUT = main
